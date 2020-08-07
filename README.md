@@ -1,2 +1,2 @@
-# introduction-to-git-and-github
+# Introduction to git and github
 by Google
