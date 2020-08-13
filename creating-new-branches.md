@@ -7,3 +7,6 @@
 #### git checkout -b yeni_dalin_adi
 ##### <i>yeni dal oluşturarak, çalışılan dalı belirler.</i>
 
+#### git branch -d silinecek_dal_adi
+##### <i>dalı siler. en son çalişilan dalda kalır.</i>
+
